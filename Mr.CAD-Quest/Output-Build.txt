@@ -1,0 +1,2 @@
+﻿1>------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+1>  Assembly-CSharp -> C:\Users\Zachary\Desktop\Mr.Anderson_Programming Class\Mr.CAD-Quest\Mr.CAD-Quest\Mr.CAD-Quest\Temp\bin\Debug\Assembly-CSharp.dll

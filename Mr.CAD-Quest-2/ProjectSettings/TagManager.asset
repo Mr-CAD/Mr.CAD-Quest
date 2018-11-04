@@ -4,10 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - III
-  - II
-  - I
-  - IIII
+  - Pick Ups
+  - finish
+  - Pick Up
+  - Maze1
+  - Maze2
+  - Maze3
+  - Maze4
+  - Maze 5
   layers:
   - Default
   - TransparentFX
